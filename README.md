@@ -30,7 +30,7 @@ Check out the live demo of the Color Generator on GitHub [Pages](https://gupta-r
 ## 📺 YouTube Tutorial
 
 Watch the YouTube tutorial to learn how to build this project step-by-step:
-[YouTube Tutorial](https://youtu.be/T0DLc0XlPV8)
+[YouTube Tutorial](https://youtu.be/T0DLc0XIPV8?si=mQho9je6jRqATqMU)
 
 ## 📝 Usage
 
