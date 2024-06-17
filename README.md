@@ -25,7 +25,7 @@ Welcome to the **Color Generator** project! This simple and elegant web applicat
 
 ## 🚀 Demo
 
-Check out the live demo of the Color Generator on GitHub [Pages](https://gupta-ravi.github.io/ColorGenrator/)
+Check out the live demo of the Color Generator on GitHub [Pages](https://gupta-ravi.github.io/ColorGenerator/)
 
 ## 📺 YouTube Tutorial
 
