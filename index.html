@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Color Generator</title>
+</head>
+
+<body>
+    <div class="main">
+        <div class="container">
+            <h1 id="color-code">#fff</h1>
+            <button id="btn" onclick="getColor()">Click Me</button>
+        </div>
+    </div>
+
+    <script>
+        const getColor = () => {
+            const randNum = Math.floor(Math.random() * 16777215)
+            const colorCode = '#' + randNum.toString(16)
+            document.getElementById('color-code').innerHTML = colorCode
+            document.body.style.backgroundColor = colorCode
+            navigator.clipboard.writeText(colorCode)
+        }
+
+        getColor()
+    </script>
+</body>
+
+</html>
